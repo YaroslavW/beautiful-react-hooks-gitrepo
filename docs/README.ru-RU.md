@@ -12,7 +12,7 @@
 
 ![Usage example](img/usage_example.png)
 
-🇬🇧 English | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.zh-CN.md">🇨🇳 简体中文</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.it-IT.md">🇮🇹 Italiano</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.es-ES.md"> 🇪🇸 Español </a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.uk-UA.md">🇺🇦 Ukrainian</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pt-BR.md">🇧🇷 Brazilian Portuguese</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pl-PL.md">🇵🇱 Polski </a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.ru-RU.md">🇷🇺 Russian </a>
+🇬🇧 English | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.zh-CN.md">🇨🇳 简体中文</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.it-IT.md">🇮🇹 Italiano</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.es-ES.md"> 🇪🇸 Español </a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.uk-UA.md">🇺🇦 Ukrainian</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pt-BR.md">🇧🇷 Brazilian Portuguese</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pl-PL.md">🇵🇱 Polski </a> | <a href="https://github.com/YaroslavW/beautiful-react-hooks-gitrepo/blob/master/docs/README.ru-RU.md">🇷🇺 Russian </a>
 
 ## 💡 Зачем?
 
@@ -81,7 +81,7 @@ $ yarn add beautiful-react-hooks
 
 Вклад очень приветствуется и нужен.
 
-Чтобы отправить свой пользовательский хук, пожалуйста, убедитесь, что вы прочитали наши рекомендации [CONTRIBUTING] (./CONTRIBUTING.md).
+Чтобы отправить свой пользовательский хук, пожалуйста, убедитесь, что вы прочитали наши рекомендации [CONTRIBUTING](./CONTRIBUTING.md).
 
 **Перед отправкой** нового запроса на слияние (merge реквест), пожалуйста, убедитесь:
 
