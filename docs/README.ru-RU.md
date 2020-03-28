@@ -58,7 +58,7 @@ $ yarn add beautiful-react-hooks
 
 ## 🎨 Hooks
 
-- [useGlobalEvent](docs/ru/useGlobalEvent.md)
+- [useGlobalEvent](ru/useGlobalEvent.md)
 - [usePreviousValue](docs/ru/usePreviousValue.md)
 - [useValueHistory](docs/ru/useValueHistory.md)
 - [useValidatedState](docs/ru/useValidatedState.md)
