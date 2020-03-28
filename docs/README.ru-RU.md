@@ -1,4 +1,9 @@
-![logo](img/logo.png)
+<div align="center">
+  <p align="center">
+    <img src="../logo.png" alt="Beautiful React Hooks" width="750px" />
+  </p>
+</div>
+<br />
 
 Коллекция красивых (и, надеюсь, полезных) хитов React для ускорения разработки ваших компонентов и хуков
 
