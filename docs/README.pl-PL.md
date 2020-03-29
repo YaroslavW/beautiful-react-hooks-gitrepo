@@ -3,7 +3,6 @@
 ![npm](https://img.shields.io/npm/v/beautiful-react-hooks)
 ![GitHub stars](https://img.shields.io/github/stars/beautifulinteractions/beautiful-react-hooks?style=social)
 
-
 <div align="center">
   <p align="center">
     <img src="../logo.png" alt="Beautiful React Hooks" width="750px" />
@@ -27,26 +26,25 @@ tworzenia spersonalizowanych hooków oraz komponentów.
 
 ![Usage example](../usage_example.png)
 
-<a href="https://github.com/beautifulinteractions/beautiful-react-hooks/">🇬🇧 English</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.zh-CN.md">🇨🇳 简体中文</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.it-IT.md">🇮🇹 Italiano</a> |<a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.es-ES.md"> 🇪🇸 Español | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.uk-UA.md">🇺🇦 Ukrainian</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pt-BR.md">🇧🇷 Brazilian Portuguese</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pl-PL.md">🇵🇱 Polski </a> | <a href="README.ru-RU.md">🇷🇺 Russian </a>
+<a href="../README.md">🇬🇧 English</a> | <a href="README.zh-CN.md">🇨🇳 简体中文</a> | <a href="README.it-IT.md">🇮🇹 Italiano</a> |<a href="README.es-ES.md"> 🇪🇸 Español | <a href="README.uk-UA.md">🇺🇦 Ukrainian</a> | <a href="README.pt-BR.md">🇧🇷 Brazilian Portuguese</a> | <a href="README.pl-PL.md">🇵🇱 Polski </a> | <a href="README.ru-RU.md">🇷🇺 Russian </a>
 
-## 💡 Dlaczego? 
+## 💡 Dlaczego?
 
 W aplikacji React hooki pozwalają na wyodrębnienie logiki biznesowej komponentów do pojedyńczych funkcji wielokrotnego użytku.<br />
 Odkryliśmy, że większość hooków, które stworzyliśmy i dzieliliśmy między naszymi wewnętrznymi projektami, miały zazwyczaj podobną istotę, obejmującą callbacki, eventy oraz cykle zycia komponentów. <br />
-Z tego powodu podjęliśmy próbę zebrania tej istoty pod postacią `beautiful-react-hooks` będących zbiorem (* mamy nadzieję *) przydatnych hooków
+Z tego powodu podjęliśmy próbę zebrania tej istoty pod postacią `beautiful-react-hooks` będących zbiorem (_ mamy nadzieję _) przydatnych hooków
 React, mającym na celu pomoc innym firmom i specjalistom w przyspieszeniu procesu tworzenia aplikacji.<br /><br />
 Ponadto, stworzyliśmy zwięzłe i konkretne API, mając na uwadze czytelność kodu oraz pragnąc utrzymać krzywą uczenia się na jak najniższym poziomie, tak, aby można je było wykorzystywać i dzielić się nim w większych zespołach.
-
 
 **-- Przeczytaj dokumentację kadego z hooków przed jego użyciem! --**
 
 ## ☕️ Cechy
 
-* Zwarte API
-* Małe i lekkie
-* Łatwe do nauki
-* Podejście funkcjonalne
-* Napisane w całości w JS (chociaż typy TS są również obsługiwane)
+- Zwarte API
+- Małe i lekkie
+- Łatwe do nauki
+- Podejście funkcjonalne
+- Napisane w całości w JS (chociaż typy TS są również obsługiwane)
 
 <div>
   <p align="center">
@@ -59,6 +57,7 @@ Ponadto, stworzyliśmy zwięzłe i konkretne API, mając na uwadze czytelność 
 ## 🕺 Instalacja
 
 używając `npm`:
+
 ```bash
 $ npm install beautiful-react-hooks
 ```
@@ -71,26 +70,26 @@ $ yarn add beautiful-react-hooks
 
 ## 🎨 Hooki
 
-* [useGlobalEvent](useGlobalEvent.md)
-* [usePreviousValue](usePreviousValue.md)
-* [useValueHistory](useValueHistory.md)
-* [useValidatedState](useValidatedState.md)
-* [useMediaQuery](useMediaQuery.md)
-* [useOnlineState](useOnlineState.md)
-* [useViewportSpy](useViewportSpy.md)
-* [useGeolocation](useGeolocation.md), [useGeolocationState](useGeolocationState.md) and [useGeolocationEvents](useGeolocationEvents.md)
-* [useDrag](useDrag.md), [useDropZone](useDropZone.md) i [useDragEvents](useDragEvents.md)
-* [useMouse](useMouse.md), [useMouseState](useMouseState.md) i [useMouseEvents](useMouseEvents.md)
-* [useLifecycle](useLifecycle.md), [useDidMount](useDidMount.md) i [useWillUnmount](useWillUnmount.md)
-* [useWindowResize](useWindowResize.md)
-* [useWindowScroll](useWindowScroll.md)
-* [useRequestAnimationFrame](useRequestAnimationFrame.md)
-* [useTimeout](useTimeout.md)
-* [useConditionalTimeout](useConditionalTimeout.md)
-* [useInterval](useInterval.md)
-* [useDebouncedFn](useDebouncedFn.md)
-* [useThrottledFn](useThrottledFn.md)
-* [useLocalStorage](useLocalStorage.md)
+- [useGlobalEvent](useGlobalEvent.md)
+- [usePreviousValue](usePreviousValue.md)
+- [useValueHistory](useValueHistory.md)
+- [useValidatedState](useValidatedState.md)
+- [useMediaQuery](useMediaQuery.md)
+- [useOnlineState](useOnlineState.md)
+- [useViewportSpy](useViewportSpy.md)
+- [useGeolocation](useGeolocation.md), [useGeolocationState](useGeolocationState.md) and [useGeolocationEvents](useGeolocationEvents.md)
+- [useDrag](useDrag.md), [useDropZone](useDropZone.md) i [useDragEvents](useDragEvents.md)
+- [useMouse](useMouse.md), [useMouseState](useMouseState.md) i [useMouseEvents](useMouseEvents.md)
+- [useLifecycle](useLifecycle.md), [useDidMount](useDidMount.md) i [useWillUnmount](useWillUnmount.md)
+- [useWindowResize](useWindowResize.md)
+- [useWindowScroll](useWindowScroll.md)
+- [useRequestAnimationFrame](useRequestAnimationFrame.md)
+- [useTimeout](useTimeout.md)
+- [useConditionalTimeout](useConditionalTimeout.md)
+- [useInterval](useInterval.md)
+- [useDebouncedFn](useDebouncedFn.md)
+- [useThrottledFn](useThrottledFn.md)
+- [useLocalStorage](useLocalStorage.md)
 
 <div>
   <p align="center">
@@ -102,7 +101,7 @@ $ yarn add beautiful-react-hooks
 
 ## Współpraca
 
-Współpraca jest bardzo mile widziana. 
+Współpraca jest bardzo mile widziana.
 
 Przed dodaniem nowego hooka zapoznaj się koniecznie z zasadami projektowymi tutaj [CONTRIBUTING](../CONTRIBUTING.md)
 
@@ -110,21 +109,20 @@ Przed dodaniem nowego hooka zapoznaj się koniecznie z zasadami projektowymi tut
 
 1. uaktualniłeś wersję pliku package.json oraz dodałeś zmiany w pliku [CHANGELOG](../CHANGELOG.md)
 2. użyłeś komend `npm test` oraz `npm build`.
-3. dodałeś dokumentację do twojego nowego hooka (*możesz użyć szablon [HOOK_DOCUMENTATION_TEMPLATE](../HOOK_DOCUMENTATION_TEMPLATE.md)*).
+3. dodałeś dokumentację do twojego nowego hooka (_możesz użyć szablon [HOOK_DOCUMENTATION_TEMPLATE](../HOOK_DOCUMENTATION_TEMPLATE.md)_).
 4. uaktualniłeś plik `index.d.ts` dodając typy Typescript twojego hooka.
 
 ### Użyte narzędzia
 
-* [React](https://reactjs.org/)
-* [Mocha](https://mochajs.org/)
-* [Chai](https://www.chaijs.com/)
-* [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro)
-* [@testing-library/react-hooks](https://react-hooks-testing-library.com/) 
-
+- [React](https://reactjs.org/)
+- [Mocha](https://mochajs.org/)
+- [Chai](https://www.chaijs.com/)
+- [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro)
+- [@testing-library/react-hooks](https://react-hooks-testing-library.com/)
 
 ### Uznanie
 
-Ta biblioteka jest prowadzona i sponsorowana przez: 
+Ta biblioteka jest prowadzona i sponsorowana przez:
 
 <div>
   <p>
