@@ -27,7 +27,7 @@
 ![Exemplo de uso](../usage_example.png)
 
 
-<a href="https://github.com/beautifulinteractions/beautiful-react-hooks/">🇬🇧 English</a>  | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.zh-CN.md">🇨🇳 简体中文</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.it-IT.md">🇮🇹 Italiano</a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.es-ES.md"> 🇪🇸 Español </a> | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.uk-UA.md">🇺🇦 Ukrainian</a> | 🇧🇷 Brazilian Portuguese | <a href="https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/README.pl-PL.md">🇵🇱 Polski </a> | <a href="README.ru-RU.md">🇷🇺 Russian </a>
+<a href="../README.md">🇬🇧 English</a> | <a href="README.zh-CN.md">🇨🇳 简体中文</a> | <a href="README.it-IT.md">🇮🇹 Italiano</a> |<a href="README.es-ES.md"> 🇪🇸 Español | <a href="README.uk-UA.md">🇺🇦 Ukrainian</a> | <a href="README.pt-BR.md">🇧🇷 Brazilian Portuguese</a> | <a href="README.pl-PL.md">🇵🇱 Polski </a> | <a href="README.ru-RU.md">🇷🇺 Russian </a>
 
 ## 💡 Por quê?
 
