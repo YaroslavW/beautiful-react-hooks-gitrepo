@@ -103,3 +103,5 @@ const DelayedContentComponent = () => {
 #### ✅ Чего не делать
 
 - Вы не можете использовать его асинхронно, так как это нарушит правила хуков - [rules of hooks](https://reactjs.org/docs/hooks-rules.html)
+
+Более подробно вы можете прочитать об этом в статье [Dan Abramov](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) или в моем переводе её - ["Делаем setInterval декларативным с помощью React Hooks"](https://github.com/YaroslavW/react-short-notes/blob/master/texts/Hooks-setInterval/hooks-setInterval.md)
