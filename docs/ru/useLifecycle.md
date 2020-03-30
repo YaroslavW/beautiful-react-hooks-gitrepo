@@ -87,4 +87,4 @@ by [Dan Abramov](https://twitter.com/dan_abramov)
 - Вы не можете использовать его асинхронно, так как это нарушит [rules of hooks](https://reactjs.org/docs/hooks-rules.html)
 - При использовании установщиков обработчиков ( handler setters) они не должны использоваться асинхронно, а должны вызываться немедленно.
 
-https://github.com/beautifulinteractions/beautiful-react-hooks/blob/master/docs/useLifecycle.md
+смотри [useLifecycle.md](./useLifecycle.md)
